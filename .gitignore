@@ -1,0 +1,11 @@
+*-checkpoint.ipynb
+.idea/*
+*.pkl
+*.npy
+*.DS_store
+.ipynb_checkpoints
+
+
+theory
+notes
+faq
