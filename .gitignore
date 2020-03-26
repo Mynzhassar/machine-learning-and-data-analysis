@@ -3,6 +3,7 @@
 *.pkl
 *.npy
 *.DS_store
+*.pdf
 .ipynb_checkpoints
 
 
