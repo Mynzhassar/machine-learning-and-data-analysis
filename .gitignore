@@ -4,6 +4,7 @@
 *.npy
 *.DS_store
 *.pdf
+*.csv
 .ipynb_checkpoints
 
 
