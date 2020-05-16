@@ -7,6 +7,7 @@
 *.csv
 .ipynb_checkpoints
 *.dat
+*.json
 
 
 theory
