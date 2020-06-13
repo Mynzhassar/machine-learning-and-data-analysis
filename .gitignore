@@ -13,6 +13,8 @@
 theory
 notes
 faq
+test
+train
 
 sentences.txt
 lectures.txt
@@ -26,4 +28,9 @@ water.txt
 AUCs.txt
 botswana.tsv
 
+vgg16_weights.npz
+results.txt
+class_names.txt
+imagenet_classes.py
+__pycache__
 
